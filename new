@@ -3,3 +3,5 @@ Ubuntuにバイナリソフトウェアをインストール
 OktetaをOkutaに勘違いして打ち間違い
 (Okutet=8ビットの単位)
 Okteta打ち込むのが大変
+wsl Windows上でLinux環境を直接実行できる機能
+wsl2 従来のWSL1と異なり、軽量なユーティリティ仮想マシン上で本物のLinuxカーネルを実行する
