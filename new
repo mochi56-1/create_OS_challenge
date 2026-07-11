@@ -11,6 +11,7 @@ Xサーバ導入
 ubuntuにqemuインストール
 ubuntuでokteta BOOTX64.EFIで編集可能
 QEMUの画面起動Helloworld
+
 EDKIIで再実装
 (EDKIIはUEFI BIOS自体の開発とUEFIアプリケーション(ブートローダー)を開発するための開発キット)
 (BIOsはパソコンの電源を入れた直後に最初に動作し、ハードウェアを管理してOSの起動を支える基本入出力システム）
